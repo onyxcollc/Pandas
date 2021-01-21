@@ -18,15 +18,14 @@ You will need to create a tool (an analysis notebook) that analyzes and visualiz
 
 ---
 
-## Instructions
-
-**File:** [Whale Analysis Starter Code](Starter_Code/whale_analysis.ipynb)
-
-### Prepare the Data
+# Instructions
 
 
-  ![returns-dataframe.png](Images/returns-dataframe.png)
 
+## Prepare the Data
+
+
+ 
 ### Conduct Quantitative Analysis
 
 
@@ -39,10 +38,10 @@ You will need to create a tool (an analysis notebook) that analyzes and visualiz
 #### Rolling Statistics
 
 
-### Plot Sharpe Ratios
+#### Plot Sharpe Ratios
 
 
-### Create Custom Portfolio
+#### Create Custom Portfolio
 
 Harold is ecstatic that you were able to help him prove that the algorithmic trading portfolios are doing so well compared to the market and whales' portfolios. However, now you are wondering whether you can choose your own portfolio that performs just as well as the algorithmic portfolios. Investigate by doing the following:
 
